@@ -1,0 +1,2 @@
+cmdhistory=["(foo)" "(foo \\"String\\")" "(read)" "(foo \\"s\\")" "(read)" "(readFile)" "(readFile x)" "(readFile)" "readFile" "(readFile)" "(main)" "(main test)" "(main)" "(main test)" "(main)" "(closure.version)" "(main)"]
+eclipse.preferences.version=1
