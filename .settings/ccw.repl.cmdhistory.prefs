@@ -1,2 +1,2 @@
-cmdhistory=["(foo)" "(foo \\"String\\")" "(read)" "(foo \\"s\\")" "(read)" "(readFile)" "(readFile x)" "(readFile)" "readFile" "(readFile)" "(main)" "(main test)" "(main)" "(main test)" "(main)" "(closure.version)" "(main)"]
+cmdhistory=["(foo)" "(foo \\"String\\")" "(read)" "(foo \\"s\\")" "(read)" "(readFile)" "(readFile x)" "(readFile)" "readFile" "(readFile)" "(main)" "(main test)" "(main)" "(main test)" "(main)" "(closure.version)" "(main)" "(tri_frequency_map)" "(println tri_freqiency_map)" "(println tri_frequency_map)"]
 eclipse.preferences.version=1
